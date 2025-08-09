@@ -15,7 +15,7 @@
 🔬 **AI Research Enthusiast** with hands-on experience in deep learning and predictive modeling  
 ⚡ **Cloud Architecture Explorer** passionate about scalable, intelligent systems  
 
-</div>
+
 
 ## 🚀 What I'm Up To
 
