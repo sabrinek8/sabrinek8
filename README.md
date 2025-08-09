@@ -19,7 +19,7 @@
 
 ## 🚀 What I'm Up To
 
-- 🌱 Currently learning **MLOps** and **AWS cloud architectures**
+🌱 Currently learning **MLOps** and **AWS cloud architectures**
 
 ## 💻 Tech Stack
 
