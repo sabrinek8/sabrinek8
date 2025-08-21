@@ -67,7 +67,7 @@
 ### Currently Learning
 
 <!-- Currently Learning -->
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![MLOps](https://img.shields.io/badge/MLOps-000000?style=for-the-badge) 
 ![Advanced AI](https://img.shields.io/badge/Advanced_AI-FF6F61?style=for-the-badge)
 
